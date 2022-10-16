@@ -13,8 +13,8 @@ In this kernel, we will work through the kaggle dataset Ames Housing to understa
 Predict the selling price of a home based on a dataset describing exisiting homes, and their features and the final price
 File description
 
-Starter: Housing Price prediction | Random Forest.ipynb : Tutorial and steps to load, wrangle the data, apply logistic regression classifier and test model performance.
-home-data-for-ml-course : data file consisiting of the Ames Housing dataset
+- Starter: Housing Price prediction | Random Forest.ipynb : Tutorial and steps to load, wrangle the data, apply logistic regression classifier and test model performance.
+- home-data-for-ml-course : data file consisiting of the Ames Housing dataset
 
 ## Data description
 
